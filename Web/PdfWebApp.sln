@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfWebApp", "PdfWebApp\PdfWebApp.csproj", "{394213AA-AEEE-4622-8579-75A09029858C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFReader", "..\PDFReader\PDFReader\PDFReader.csproj", "{F58D8337-0D41-4C2B-B882-B7EC81C9B438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394213AA-AEEE-4622-8579-75A09029858C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Debug|x64.Build.0 = Debug|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Release|x64.ActiveCfg = Release|Any CPU
+		{394213AA-AEEE-4622-8579-75A09029858C}.Release|x64.Build.0 = Release|Any CPU
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Debug|x64.ActiveCfg = Debug|x64
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Debug|x64.Build.0 = Debug|x64
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Release|x64.ActiveCfg = Release|x64
+		{F58D8337-0D41-4C2B-B882-B7EC81C9B438}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84395357-998F-4B65-90E4-B030FA99B5B4}
+	EndGlobalSection
+EndGlobal

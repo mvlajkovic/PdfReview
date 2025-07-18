@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "Web\\PdfWebApp.sln",
+    "projects": [
+      "..\\Reader\\PDFReader\\PDFReader.csproj",
+      "PdfWebApp\\PdfWebApp.csproj"
+    ]
+  }
+}
